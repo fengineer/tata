@@ -1,6 +1,3 @@
-hello
-
-
 在terminal中使用输入法输入 －> 得到终端编码，如在txt中输入，在windows下应该是gbk编码。
 terminal根据字符编码转换成二进制流
 二进制流通过MySQL客户端传输到MySQL Server
